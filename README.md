@@ -17,7 +17,7 @@
 - 🤔 **I’m currently learning:** Machine Learning, Deep Learning and Advanced Microservices Architecture.
 
 <div align="center">
-  <a href="TU_LINK_COPIADO_AQUÍ" target="_blank">
+  <a href="https://github.com/Aleju19/Aleju19/blob/main/CV_Ortega_David.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download-My%20CV-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="CV" />
   </a>
 </div>
@@ -52,14 +52,30 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23ffca28.svg?style=for-the-badge&logo=firebase&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-%23000000.svg?style=for-the-badge&logo=android-studio&logoColor=3DDC84)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+#### 🎨 Other Skills
+
+#### 📐 3D & Photogrammetry
+![Cinema 4D](https://img.shields.io/badge/Cinema%204D-822222?style=for-the-badge&logo=cinema-4d&logoColor=white)
+![Agisoft Metashape](https://img.shields.io/badge/Metashape-Photogrammetry-5E2D91?style=for-the-badge)
+
+#### 🖌️ Design & Creative Suite
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+
+#### 📊 Data & Office
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 
 ## 📊 Profile Statistics
 
@@ -70,7 +86,7 @@
 
 </div>
  
-### 💳 Github Profile Summary Card
+💳 Github Profile Summary Card
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aleju19&theme=github_dark" alt="Summary Card" />
 </div>
