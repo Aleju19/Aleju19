@@ -75,6 +75,29 @@
 #### 📊 Data & Office
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+## 🚀 Featured Projects
+
+<table align="center">
+  <tr>
+    <td align="center" width="100%">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=87CEEB&height=100&section=header&text=Library%20Management%20System&fontSize=30&fontAlignY=50" width="100%" alt="Library Project" />
+      <br />
+      <strong>📚 Library & Sales Management (JavaFX + CDI)</strong>
+      <p>Desktop application for inventory control, sales, and library loans. Features complex relational logic and automated migrations.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flyway-CC0201?style=flat-square&logo=flyway&logoColor=white" />
+      </p>
+      <a href="https://github.com/Aleju19/Library-Management-System-JavaFX">📂 View Repository</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+
 
 ## 📊 Profile Statistics
 
